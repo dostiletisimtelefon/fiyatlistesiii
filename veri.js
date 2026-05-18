@@ -5,18 +5,15 @@
 window.PERSONELLER = [
   {
     tc: "28904290846",
-    adSoyad: "İbrahim Altıntaş",
-    sirket: "Şirket Personeli"
+    adSoyad: "İbrahim Altıntaş"
   },
   {
     tc: "61885414962",
-    adSoyad: "Besim Hanecioğlu",
-    sirket: "Şirket Personeli"
+    adSoyad: "Besim Hanecioğlu"
   },
   {
     tc: "28049319310",
-    adSoyad: "Hakkı Korkmaz",
-    sirket: "Şirket Personeli"
+    adSoyad: "Hakkı Korkmaz"
   }
 ];
 
