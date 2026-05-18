@@ -9,6 +9,11 @@ window.PERSONELLER = [
     sirket: "Şirket Personeli"
   },
   {
+    tc: "61885414962",
+    adSoyad: "Besim Hanecioğlu",
+    sirket: "Şirket Personeli"
+  },
+  {
     tc: "28049319310",
     adSoyad: "Hakkı Korkmaz",
     sirket: "Şirket Personeli"
